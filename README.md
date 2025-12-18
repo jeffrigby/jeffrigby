@@ -29,6 +29,12 @@ I specialize in making AI tools actually useful for developers. Recent work incl
 ### AWS Certifications
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/1d1cb5be-fefd-4e8b-8dc4-5273aab2e14a" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/26dc3d53-4fb5-4e00-8ce5-6f94996b0c09" title="AWS Certified DevOps Engineer – Professional"><img src="https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/be304348-6348-4214-8657-c73c4d4229dc" title="AWS Certified SysOps Administrator – Associate"><img src="https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/cb2ad5e4-5c7d-4887-9da2-2973ff1130b3" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/fb673d44-b1d7-46b9-841f-c1cdc9ccd8b5" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/176e0da4-d72a-4949-9f85-ec8ddd0c8efb" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ### Projects
